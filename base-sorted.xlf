@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:mc="multicorpora:xliffeditor2:xliff-extension" version="1.2">
+    <file datatype="plaintext" original="ng2.template" source-language="en">
+        <body>
+            <trans-unit datatype="html" id="acre">
+                <source>Acre</source>
+                <target>Acre - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="addNewDetail">
+                <source>
+                    <x ctype="x-i" id="START_ITALIC_TEXT"/>
+                    <x ctype="x-i" id="CLOSE_ITALIC_TEXT"/> Add New Asset Detail</source>
+                <target>
+                    <x ctype="x-i" id="START_ITALIC_TEXT"/>
+                    <x ctype="x-i" id="CLOSE_ITALIC_TEXT"/> Add New Asset Detail - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="addNewImprovement">
+                <source>
+                    <x ctype="x-i" id="START_ITALIC_TEXT"/>
+                    <x ctype="x-i" id="CLOSE_ITALIC_TEXT"/> Add New Improvement</source>
+                <target>
+                    <x ctype="x-i" id="START_ITALIC_TEXT"/>
+                    <x ctype="x-i" id="CLOSE_ITALIC_TEXT"/> Add New Improvement - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="address">
+                <source>Address</source>
+                <target>Address - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="alberta">
+                <source>Alberta</source>
+                <target>Alberta - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="area">
+                <source>Area</source>
+                <target>Area - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="areaUnit">
+                <source>Area Unit</source>
+                <target>Area Unit - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="assessmentValue">
+                <source>Assessment Value</source>
+                <target>Assessment Value - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="assessmentYear">
+                <source>Assessment Base Year</source>
+                <target>Assessment Base Year - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="assetId">
+                <source>Asset ID</source>
+                <target>Asset ID - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="assetSummaryPage">
+                <source> Asset Summary Page </source>
+                <target> Asset Summary Page  - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="assetWorkflow">
+                <source>Asset Workflow</source>
+                <target>Asset Workflow - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="associatedRangeLandOrCrownLease">
+                <source>Associated Range Land or Crown Lease</source>
+                <target>Associated Range Land or Crown Lease - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="association">
+                <source>Association</source>
+                <target>Association - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="attachedToWinery">
+                <source>Attached Winery</source>
+                <target>Attached Winery - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="aum">
+                <source>AUM</source>
+                <target>AUM - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="autoPin">
+                <source>Auto Pin</source>
+                <target>Auto Pin - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="back">
+                <source> Back</source>
+                <target> Back - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="balance">
+                <source>Balance</source>
+                <target>Balance - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="beddedPackBarn">
+                <source>Bedded Pack Barn</source>
+                <target>Bedded Pack Barn - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="britishColumbia">
+                <source>British Columbia</source>
+                <target>British Columbia - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="bunkhouseLabourHousing">
+                <source>Bunkhouse (labour housing)</source>
+                <target>Bunkhouse (labour housing) - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="businessPartners">
+                <source>Business Partners</source>
+                <target>Business Partners - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="cancel">
+                <source>Cancel</source>
+                <target>Cancel - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="cancelWorkflow">
+                <source>Cancel Workflow</source>
+                <target>Cancel Workflow - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="cancelWorkflowWarningMessage">
+                <source>Are you sure you want to cancel all assets from this workflow?</source>
+                <target>Are you sure you want to cancel all assets from this workflow? - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="charactersRemaining">
+                <source>Characters remaining: </source>
+                <target>Characters remaining:  - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="cliClass">
+                <source>CLI Class</source>
+                <target>CLI Class - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="cliSubclass">
+                <source>CLI Subclass</source>
+                <target>CLI Subclass - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="close">
+                <source>Cancel</source>
+                <target>Cancel - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="cmsLandArea">
+                <source>CMS Land Area</source>
+                <target>CMS Land Area - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="collapseAll">
+                <source>Collapse all</source>
+                <target>Collapse all - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="comment">
+                <source>Comment</source>
+                <target>Comment - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="comments">
+                <source>Comments</source>
+                <target>Comments - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="commit">
+                <source> Commit </source>
+                <target> Commit  - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="comparableSales">
+                <source>Comparable Sales</source>
+                <target>Comparable Sales - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="concession">
+                <source>Concession</source>
+                <target>Concession - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="concreteFloor">
+                <source>Concrete Floor</source>
+                <target>Concrete Floor - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="continue">
+                <source>Continue</source>
+                <target>Continue - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="coolingArea">
+                <source>Cooling Area</source>
+                <target>Cooling Area - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="copyToClipboard|FCC Base: Error 500 copy button">
+                <source>Copy to clipboard</source>
+                <target>Copy to clipboard - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="cornerArm">
+                <source>Corner Arm</source>
+                <target>Corner Arm - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="createWorkflow">
+                <source>Create Workflow</source>
+                <target>Create Workflow - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="creditFacilities">
+                <source>Credit Facilities</source>
+                <target>Credit Facilities - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="curtains">
+                <source>Curtains</source>
+                <target>Curtains - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="decline">
+                <source> Decline </source>
+                <target> Decline  - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="declineWorkflow">
+                <source>Decline Workflow</source>
+                <target>Decline Workflow - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="declineWorkflowWarningMessage">
+                <source>Are you sure you want to decline all assets from this workflow?</source>
+                <target>Are you sure you want to decline all assets from this workflow? - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="deleteAll">
+                <source>Delete All</source>
+                <target>Delete All - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="deleteDraft">
+                <source>Delete Draft</source>
+                <target>Delete Draft - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="deleteDraftWarningMessage">
+                <source>Are you sure you want to delete this draft?</source>
+                <target>Are you sure you want to delete this draft? - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="density">
+                <source>Density</source>
+                <target>Density - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="description">
+                <source>Description</source>
+                <target>Description - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="deselectAll">
+                <source>Deselect all</source>
+                <target>Deselect all - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="details">
+                <source>Details</source>
+                <target>Details - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="determineValue">
+                <source>Determine Value</source>
+                <target>Determine Value - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="draft">
+                <source> Draft </source>
+                <target> Draft  - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="edit">
+                <source> Edit </source>
+                <target> Edit  - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="effectiveAge">
+                <source>Effective Age</source>
+                <target>Effective Age - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="effectiveAgeGuide">
+                <source>Effective Age Guide</source>
+                <target>Effective Age Guide - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="errorDetails|FCC Base: Error 500 detail title">
+                <source>Error Details</source>
+                <target>Error Details - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="expandAll">
+                <source>Expand all</source>
+                <target>Expand all - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="fabricCover">
+                <source>Fabric Cover</source>
+                <target>Fabric Cover - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="feederCapacity">
+                <source>Feeder Capacity</source>
+                <target>Feeder Capacity - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="feedMill">
+                <source>Feedmill</source>
+                <target>Feedmill - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="finalRating">
+                <source>Final Rating (0-100)</source>
+                <target>Final Rating (0-100) - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="findBy">
+                <source>Find By</source>
+                <target>Find By - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="frostProtection">
+                <source>Frost Protection</source>
+                <target>Frost Protection - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="fruitType">
+                <source>Fruit Type</source>
+                <target>Fruit Type - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="garage">
+                <source>Garage</source>
+                <target>Garage - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="gestationHousingSystem">
+                <source>Gestation Housing System</source>
+                <target>Gestation Housing System - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="grainDryer">
+                <source>Grain Dryer</source>
+                <target>Grain Dryer - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="grapeType">
+                <source>Grape Type</source>
+                <target>Grape Type - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="gutterHeight">
+                <source>Gutter Height</source>
+                <target>Gutter Height - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="gutterHeightUnitType">
+                <source>Gutter Height Unit Type</source>
+                <target>Gutter Height Unit Type - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="hangingGrowTroughs">
+                <source>Hanging Grow Troughs</source>
+                <target>Hanging Grow Troughs - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="hectare">
+                <source>Hectare</source>
+                <target>Hectare - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="hide">
+                <source>Hide</source>
+                <target>Hide - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="hideAdditionalDetails">
+                <source> Hide Additional Details </source>
+                <target> Hide Additional Details  - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="historical">
+                <source> Historical </source>
+                <target> Historical  - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="hotWaterFloorRails">
+                <source>Hot Water Floor Rails</source>
+                <target>Hot Water Floor Rails - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="housingSystem">
+                <source>Housing System</source>
+                <target>Housing System - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="humidityControlSystem">
+                <source>Humidity Control System</source>
+                <target>Humidity Control System - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="hydro">
+                <source>Hydro</source>
+                <target>Hydro - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="improvements">
+                <source>Improvements</source>
+                <target>Improvements - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="improvementTotal">
+                <source>Improvement Total</source>
+                <target>Improvement Total - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="insuranceRating">
+                <source>Insurance Rating</source>
+                <target>Insurance Rating - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="irrigated">
+                <source>Irrigated</source>
+                <target>Irrigated - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="kilograms">
+                <source>kg</source>
+                <target>kg - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="land">
+                <source>Land</source>
+                <target>Land - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="landAssets">
+                <source>Land Assets</source>
+                <target>Land Assets - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="landDetails">
+                <source>Land Details</source>
+                <target>Land Details - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="landImprovements">
+                <source>Improvements</source>
+                <target>Improvements - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="landTotal">
+                <source>Land Total</source>
+                <target>Land Total - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="lastValuation">
+                <source>Last Valuation:</source>
+                <target>Last Valuation: - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="lastValuationDate">
+                <source>Last Valuation Date</source>
+                <target>Last Valuation Date - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="lastValuationId">
+                <source>Last Valuation ID</source>
+                <target>Last Valuation ID - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="latitude">
+                <source>Latitude</source>
+                <target>Latitude - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="legalIrrigationSystem">
+                <source>Legal Irrigation System</source>
+                <target>Legal Irrigation System - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="legalLandDescription">
+                <source>
+              Legal Land Description
+            </source>
+                <target>
+              Legal Land Description - FR
+            </target>
+            </trans-unit>
+            <trans-unit datatype="html" id="lifeInterestLeaseholdEstate">
+                <source>Life interest/leasehold estate</source>
+                <target>Life interest/leasehold estate - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="login">
+                <note priority="1" from="description">FCC Base: Login</note>
+                <source>Login</source>
+                <target>Login - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="login|FCC Base: Login">
+                <source>Login</source>
+                <target>Login - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="logout">
+                <note priority="1" from="description">FCC Base: header bar</note>
+                <source>Logout</source>
+                <target>Logout - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="longDescription">
+                <source>Long Description</source>
+                <target>Long Description - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="longitude">
+                <source>Longitude</source>
+                <target>Longitude - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="lot">
+                <source>Lot</source>
+                <target>Lot - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="manitoba">
+                <source>Manitoba</source>
+                <target>Manitoba - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="market">
+                <source>Market</source>
+                <target>Market - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="mature">
+                <source>Mature</source>
+                <target>Mature - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="Mature">
+                <source>Mature</source>
+                <target>Mature - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="maximum">
+                <source>Maximum</source>
+                <target>Maximum - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="minimum">
+                <source>Minimum</source>
+                <target>Minimum - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="multiStorey">
+                <source>Multi Storey</source>
+                <target>Multi Storey - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="newBrunswick">
+                <source>New Brunswick</source>
+                <target>New Brunswick - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="newfoundlandLabrador">
+                <source>Newfoundland and Labrador</source>
+                <target>Newfoundland and Labrador - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="newValue">
+                <source>New Value: </source>
+                <target>New Value:  - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="noAccessToPropertyLandLocked">
+                <source>No access to property (landlocked)</source>
+                <target>No access to property (landlocked) - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="noAccessToWater">
+                <source>No access to water</source>
+                <target>No access to water - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="none">
+                <source>None</source>
+                <target>None - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="noQuotaAttached">
+                <source>No Quota Attached</source>
+                <target>No Quota Attached - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="notAuthorized">
+                <note priority="1" from="description">FCC Base: auth guard</note>
+                <source>
+                    <x ctype="x-i" id="START_ITALIC_TEXT"/>
+                    <x ctype="x-i" id="CLOSE_ITALIC_TEXT"/>   You are not authorized to view this page</source>
+                <target>
+                    <x ctype="x-i" id="START_ITALIC_TEXT"/>
+                    <x ctype="x-i" id="CLOSE_ITALIC_TEXT"/>   You are not authorized to view this page - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="notFound">
+                <note priority="1" from="description">FCC Base: page not found</note>
+                <source>
+                    <x ctype="x-i" id="START_ITALIC_TEXT"/>
+                    <x ctype="x-i" id="CLOSE_ITALIC_TEXT"/>   Page not found</source>
+                <target>
+                    <x ctype="x-i" id="START_ITALIC_TEXT"/>
+                    <x ctype="x-i" id="CLOSE_ITALIC_TEXT"/>   Page not found - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="novaScotia">
+                <source>Nova Scotia</source>
+                <target>Nova Scotia - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="numberOfKW">
+                <source>Number of kW</source>
+                <target>Number of kW - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="numberOfTaps">
+                <source>Number of Taps</source>
+                <target>Number of Taps - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="numberOfUnits">
+                <source>Number of Units</source>
+                <target>Number of Units - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="onSiteC02Production">
+                <source>On site C02 Production</source>
+                <target>On site C02 Production - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="ontario">
+                <source>Ontario</source>
+                <target>Ontario - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="optional">
+                <source>Optional</source>
+                <target>Optional - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="Organic">
+                <source>Organic</source>
+                <target>Organic - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="otherAssets">
+                <source>Other Assets</source>
+                <target>Other Assets - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="otherdesription">
+                <source>Description </source>
+                <target>Description  - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="overheadBasketLine">
+                <source>Overhead Basket Line</source>
+                <target>Overhead Basket Line - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="password">
+                <note priority="1" from="description">FCC Base: Login</note>
+                <source>Password</source>
+                <target>Password - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="PID">
+                <source>PID</source>
+                <target>PID - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="plantingYear">
+                <source>Planting Year</source>
+                <target>Planting Year - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="premiumLivingQuarter">
+                <source>Premium Living Quarter</source>
+                <target>Premium Living Quarter - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="pricePer">
+                <source>Price per</source>
+                <target>Price per - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="princeEdwardIsland">
+                <source>Prince Edward Island</source>
+                <target>Prince Edward Island - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="province">
+                <source>Province</source>
+                <target>Province - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="quality">
+                <source>Quality</source>
+                <target>Quality - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="quebec">
+                <source>Quebec</source>
+                <target>Quebec - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="quota">
+                <source>Quota</source>
+                <target>Quota - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="quotaLBS">
+                <source>Quota(LBS)</source>
+                <target>Quota(LBS) - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="reason">
+                <source>Reason</source>
+                <target>Reason - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="recentlyUpdatedInBoss">
+                <source>
+  This asset has been updated recently in BOSS. It is recommended to verify this asset before valuing it.
+</source>
+                <target>
+  This asset has been updated recently in BOSS. It is recommended to verify this asset before valuing it. - FR
+</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="replacementHousing">
+                <source>Replacement Housing</source>
+                <target>Replacement Housing - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="reputationRisk">
+                <source>Reputation risk</source>
+                <target>Reputation risk - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="requestId|FCC Base: Error 500 request id label">
+                <source>Request Id:</source>
+                <target>Request Id: - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="risk">
+                <source>Risk</source>
+                <target>Risk - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="saskatchewan">
+                <source>Saskatchewan</source>
+                <target>Saskatchewan - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="save">
+                <source>Save</source>
+                <target>Save - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="searchResultsNotFound">
+                <source>Search results not found.</source>
+                <target>Search results not found. - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="selectAll">
+                <source>Select all</source>
+                <target>Select all - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="selectAnOption">
+                <source>--Select--</source>
+                <target>--Select-- - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="selected">
+                <source>Selected</source>
+                <target>Selected - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="shortDescription">
+                <source>Short Description</source>
+                <target>Short Description - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="showDetails|FCC Base: error 500 show details button">
+                <source>show details</source>
+                <target>show details - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="size">
+                <source>Size</source>
+                <target>Size - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="sizeMismatchWarning">
+                <source> Total size does not match CMS size </source>
+                <target> Total size does not match CMS size  - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="sizeUnit">
+                <source>Size Unit</source>
+                <target>Size Unit - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="soilTexture">
+                <source>Soil Texture</source>
+                <target>Soil Texture - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="solarPanelType">
+                <source>Solar Panel Type</source>
+                <target>Solar Panel Type - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="squareFoot">
+                <source>Square Foot</source>
+                <target>Square Foot - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="squareMetre">
+                <source>Square Metre</source>
+                <target>Square Metre - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="stackTrace|FCC Base: Error 500 Stack trace label">
+                <source>Stack trace:</source>
+                <target>Stack trace: - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="status">
+                <source>Status</source>
+                <target>Status - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="successMessageCommit">
+                <source>Asset(s) committed successfully</source>
+                <target>Asset(s) committed successfully - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="successMessageDraft">
+                <source>Draft saved</source>
+                <target>Draft saved - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="successMessageWorkflow">
+                <source>Appraisal workflow sent successfully</source>
+                <target>Appraisal workflow sent successfully - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="successMessageWorkflowDeleted">
+                <source>Appraisal workflow declined successfully</source>
+                <target>Appraisal workflow declined successfully - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="suggested">
+                <source>Suggested</source>
+                <target>Suggested - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="switchTo">
+                <note priority="1" from="description"> Switch to French when english. Switch to English when french</note>
+                <note priority="1" from="meaning">FCC Base: header bar </note>
+                <source>Switch to French</source>
+                <target>Switch to French - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="tileDrainage">
+                <source>Tile Drainage</source>
+                <target>Tile Drainage - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="timestamp|FCC Base: Error 500 timestamp label">
+                <source>Timestamp:</source>
+                <target>Timestamp: - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="total">
+                <source>TOTAL</source>
+                <target>TOTAL - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="totalSize">
+                <source>Total Size</source>
+                <target>Total Size - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="totalSizeWarning">
+                <source> Total size converted due to having multiple unit types. Conversions may not be completely accurate.</source>
+                <target> Total size converted due to having multiple unit types. Conversions may not be completely accurate. - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="township">
+                <source>Township</source>
+                <target>Township - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="townshipConcessionLot">
+                <source>
+              Township Concession Lot
+            </source>
+                <target>
+              Township Concession Lot - FR
+            </target>
+            </trans-unit>
+            <trans-unit datatype="html" id="travellingIrrigationBooms">
+                <source>Travelling Irrigation Booms</source>
+                <target>Travelling Irrigation Booms - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="type">
+                <source>Type</source>
+                <target>Type - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="typeOfCages">
+                <source>Type of Cages</source>
+                <target>Type of Cages - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="unableToCompleteInvitation">
+                <source>We're unable to complete your application at this time. <x ctype="lb" equiv-text="&lt;br/&gt;" id="LINE_BREAK"/> Please contact the Customer Service Centre at <x ctype="x-a" equiv-text="&lt;a&gt;" id="START_LINK"/>1-888-522-2555<x ctype="x-a" equiv-text="&lt;/a&gt;" id="CLOSE_LINK"/>.</source>
+                <target>We're unable to complete your application at this time. <x ctype="lb" equiv-text="&lt;br/&gt;" id="LINE_BREAK"/> Please contact the Customer Service Centre at <x ctype="x-a" equiv-text="&lt;a&gt;" id="START_LINK"/>1-888-522-2555<x ctype="x-a" equiv-text="&lt;/a&gt;" id="CLOSE_LINK"/>. - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="unitRateDollarPerKW">
+                <source>Unit Rate $/kW</source>
+                <target>Unit Rate $/kW - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="unitType">
+                <source> Unit type</source>
+                <target> Unit type - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="urbanFringe">
+                <source>Urban Fringe</source>
+                <target>Urban Fringe - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="Use">
+                <source>Use</source>
+                <target>Use - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="user">
+                <source>User:</source>
+                <target>User: - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="username">
+                <note priority="1" from="description">FCC Base: Login</note>
+                <source>Username</source>
+                <target>Username - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="valid">
+                <source>Valid</source>
+                <target>Valid - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="valuation_workflow">
+                <source> Valuation Workflow </source>
+                <target> Valuation Workflow  - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="valuationCompleted">
+                <source>Valuation Completed:</source>
+                <target>Valuation Completed: - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="valuations">
+                <source>Valuations</source>
+                <target>Valuations - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="value">
+                <source> Value</source>
+                <target> Value - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="valueInvalidWorkflowedAssetsError">
+                <source>Can't value invalid or workflowed assets</source>
+                <target>Can't value invalid or workflowed assets - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="valueOfCrop">
+                <source>Crop Value</source>
+                <target>Crop Value - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="view">
+                <source> View </source>
+                <target> View  - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="viewAdditionalDetails">
+                <source> View Additional Details </source>
+                <target> View Additional Details  - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="workflow">
+                <source>Workflow</source>
+                <target>Workflow - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="workflowAssets">
+                <source> Workflow Assets </source>
+                <target> Workflow Assets  - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="workflowdetails">
+                <source>Workflow details: </source>
+                <target>Workflow details:  - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="yield">
+                <source>Yield</source>
+                <target>Yield - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="yourLoginHasExpired">
+                <note priority="1" from="description">FCC Base: expired Authentication</note>
+                <source>Your login has expired!</source>
+                <target>Your login has expired! - FR</target>
+            </trans-unit>
+            <trans-unit datatype="html" id="zoningNonAgHighRisk">
+                <source>Zoning (non-Ag/High Risk)</source>
+                <target>Zoning (non-Ag/High Risk) - FR</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

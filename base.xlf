@@ -1,0 +1,2576 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="valuations" datatype="html">
+        <source>Valuations</source>
+        <target>Valuations - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="login" datatype="html">
+        <source>Login</source>
+        <target>Login - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../../../node_modules/@fcc/angular/lib/lib/template/login/login.component.d.ts</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+        <note priority="1" from="description">FCC Base: Login</note>
+      </trans-unit>
+      <trans-unit id="username" datatype="html">
+        <source>Username</source>
+        <target>Username - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../../../node_modules/@fcc/angular/lib/lib/template/login/login.component.d.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">FCC Base: Login</note>
+      </trans-unit>
+      <trans-unit id="password" datatype="html">
+        <source>Password</source>
+        <target>Password - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../../../node_modules/@fcc/angular/lib/lib/template/login/login.component.d.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <note priority="1" from="description">FCC Base: Login</note>
+      </trans-unit>
+      <trans-unit id="login|FCC Base: Login" datatype="html">
+        <source>Login</source>
+        <target>Login - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../../../node_modules/@fcc/angular/lib/lib/template/login/login.component.d.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="assetWorkflow" datatype="html">
+        <source>Asset Workflow</source>
+        <target>Asset Workflow - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset-workflow.modal.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="charactersRemaining" datatype="html">
+        <source>Characters remaining: </source>
+        <target>Characters remaining:  - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset-workflow.modal.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/common/effective-age.modal.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="workflow" datatype="html">
+        <source>Workflow</source>
+        <target>Workflow - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset-workflow.modal.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/valuation-results.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="close" datatype="html">
+        <source>Cancel</source>
+        <target>Cancel - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset-workflow.modal.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/common/effective-age.modal.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cancelWorkflow" datatype="html">
+        <source>Cancel Workflow</source>
+        <target>Cancel Workflow - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/cancel-asset-workflow.modal.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/routes/valcro.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cancelWorkflowWarningMessage" datatype="html">
+        <source>Are you sure you want to cancel all assets from this workflow?</source>
+        <target>Are you sure you want to cancel all assets from this workflow? - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/cancel-asset-workflow.modal.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="continue" datatype="html">
+        <source>Continue</source>
+        <target>Continue - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/cancel-asset-workflow.modal.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/modals/createNewWorkflow.modal.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/modals/declineWorkflowConfirmation.modal.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/modals/deleteDraftConfirmation.modal.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cancel" datatype="html">
+        <source>Cancel</source>
+        <target>Cancel - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/cancel-asset-workflow.modal.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/modals/createNewWorkflow.modal.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/modals/declineWorkflowConfirmation.modal.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/modals/deleteDraftConfirmation.modal.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="successMessageCommit" datatype="html">
+        <source>Asset(s) committed successfully</source>
+        <target>Asset(s) committed successfully - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/common/success-messages.component.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="successMessageWorkflow" datatype="html">
+        <source>Appraisal workflow sent successfully</source>
+        <target>Appraisal workflow sent successfully - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/common/success-messages.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="successMessageWorkflowDeleted" datatype="html">
+        <source>Appraisal workflow declined successfully</source>
+        <target>Appraisal workflow declined successfully - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/common/success-messages.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="successMessageDraft" datatype="html">
+        <source>Draft saved</source>
+        <target>Draft saved - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/common/success-messages.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="valueInvalidWorkflowedAssetsError" datatype="html">
+        <source>Can&apos;t value invalid or workflowed assets</source>
+        <target>Can&apos;t value invalid or workflowed assets - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/routes/valcro.component.ts</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="workflowAssets" datatype="html">
+        <source> Workflow Assets </source>
+        <target> Workflow Assets  - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/routes/valcro.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="value" datatype="html">
+        <source> Value</source>
+        <target> Value - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/routes/valcro.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset-list.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="assetSummaryPage" datatype="html">
+        <source> Asset Summary Page </source>
+        <target> Asset Summary Page  - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/routes/valcro.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/valuation-results.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="notFound" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/>   Page not found</source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/>   Page not found - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../../../node_modules/@fcc/angular/lib/lib/core/handlers/not-found.component.d.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <note priority="1" from="description">FCC Base: page not found</note>
+      </trans-unit>
+      <trans-unit id="landAssets" datatype="html">
+        <source>Land Assets</source>
+        <target>Land Assets - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset-list.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="otherAssets" datatype="html">
+        <source>Other Assets</source>
+        <target>Other Assets - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset-list.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="valid" datatype="html">
+        <source>Valid</source>
+        <target>Valid - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset-list.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="status" datatype="html">
+        <source>Status</source>
+        <target>Status - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset-list.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="risk" datatype="html">
+        <source>Risk</source>
+        <target>Risk - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset-list.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="description" datatype="html">
+        <source>Description</source>
+        <target>Description - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset-list.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="lastValuationDate" datatype="html">
+        <source>Last Valuation Date</source>
+        <target>Last Valuation Date - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset-list.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="totalSize" datatype="html">
+        <source>Total Size</source>
+        <target>Total Size - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset-list.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/total-size.component.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="recentlyUpdatedInBoss" datatype="html">
+        <source>
+  This asset has been updated recently in BOSS. It is recommended to verify this asset before valuing it.
+</source>
+        <target>
+  This asset has been updated recently in BOSS. It is recommended to verify this asset before valuing it. - FR
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/edit-asset.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="landDetails" datatype="html">
+        <source>Land Details</source>
+        <target>Land Details - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/edit-asset.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="landImprovements" datatype="html">
+        <source>Improvements</source>
+        <target>Improvements - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/edit-asset.component.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deleteAll" datatype="html">
+        <source>Delete All</source>
+        <target>Delete All - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/edit-asset.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="save" datatype="html">
+        <source>Save</source>
+        <target>Save - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/edit-asset.component.ts</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/valuation-results.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="back" datatype="html">
+        <source> Back</source>
+        <target> Back - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/edit-asset.component.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="createWorkflow" datatype="html">
+        <source>Create Workflow</source>
+        <target>Create Workflow - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/modals/createNewWorkflow.modal.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="workflowdetails" datatype="html">
+        <source>Workflow details: </source>
+        <target>Workflow details:  - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/modals/createNewWorkflow.modal.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="details" datatype="html">
+        <source>Details</source>
+        <target>Details - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/modals/createNewWorkflow.modal.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="declineWorkflow" datatype="html">
+        <source>Decline Workflow</source>
+        <target>Decline Workflow - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/modals/declineWorkflowConfirmation.modal.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="declineWorkflowWarningMessage" datatype="html">
+        <source>Are you sure you want to decline all assets from this workflow?</source>
+        <target>Are you sure you want to decline all assets from this workflow? - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/modals/declineWorkflowConfirmation.modal.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deleteDraft" datatype="html">
+        <source>Delete Draft</source>
+        <target>Delete Draft - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/modals/deleteDraftConfirmation.modal.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/valuation-results.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deleteDraftWarningMessage" datatype="html">
+        <source>Are you sure you want to delete this draft?</source>
+        <target>Are you sure you want to delete this draft? - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/modals/deleteDraftConfirmation.modal.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="determineValue" datatype="html">
+        <source>Determine Value</source>
+        <target>Determine Value - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/valuation-results.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="selectAll" datatype="html">
+        <source>Select all</source>
+        <target>Select all - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/valuation-results.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deselectAll" datatype="html">
+        <source>Deselect all</source>
+        <target>Deselect all - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/valuation-results.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="expandAll" datatype="html">
+        <source>Expand all</source>
+        <target>Expand all - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/valuation-results.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="collapseAll" datatype="html">
+        <source>Collapse all</source>
+        <target>Collapse all - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/valuation-results.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="commit" datatype="html">
+        <source> Commit </source>
+        <target> Commit  - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/valuation-results.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="decline" datatype="html">
+        <source> Decline </source>
+        <target> Decline  - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/valuation-results.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="valuation_workflow" datatype="html">
+        <source> Valuation Workflow </source>
+        <target> Valuation Workflow  - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="draft" datatype="html">
+        <source> Draft </source>
+        <target> Draft  - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="historical" datatype="html">
+        <source> Historical </source>
+        <target> Historical  - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="edit" datatype="html">
+        <source> Edit </source>
+        <target> Edit  - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="view" datatype="html">
+        <source> View </source>
+        <target> View  - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/asset.component.ts</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="latitude" datatype="html">
+        <source>Latitude</source>
+        <target>Latitude - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/location-picker.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="longitude" datatype="html">
+        <source>Longitude</source>
+        <target>Longitude - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/location-picker.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="assetId" datatype="html">
+        <source>Asset ID</source>
+        <target>Asset ID - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="shortDescription" datatype="html">
+        <source>Short Description</source>
+        <target>Short Description - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="longDescription" datatype="html">
+        <source>Long Description</source>
+        <target>Long Description - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="lastValuationId" datatype="html">
+        <source>Last Valuation ID</source>
+        <target>Last Valuation ID - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="businessPartners" datatype="html">
+        <source>Business Partners</source>
+        <target>Business Partners - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="creditFacilities" datatype="html">
+        <source>Credit Facilities</source>
+        <target>Credit Facilities - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cmsLandArea" datatype="html">
+        <source>CMS Land Area</source>
+        <target>CMS Land Area - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="urbanFringe" datatype="html">
+        <source>Urban Fringe</source>
+        <target>Urban Fringe - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="assessmentValue" datatype="html">
+        <source>Assessment Value</source>
+        <target>Assessment Value - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="assessmentYear" datatype="html">
+        <source>Assessment Base Year</source>
+        <target>Assessment Base Year - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="noAccessToPropertyLandLocked" datatype="html">
+        <source>No access to property (landlocked)</source>
+        <target>No access to property (landlocked) - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="noAccessToWater" datatype="html">
+        <source>No access to water</source>
+        <target>No access to water - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="zoningNonAgHighRisk" datatype="html">
+        <source>Zoning (non-Ag/High Risk)</source>
+        <target>Zoning (non-Ag/High Risk) - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="lifeInterestLeaseholdEstate" datatype="html">
+        <source>Life interest/leasehold estate</source>
+        <target>Life interest/leasehold estate - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="reputationRisk" datatype="html">
+        <source>Reputation risk</source>
+        <target>Reputation risk - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">125</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="comments" datatype="html">
+        <source>Comments</source>
+        <target>Comments - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/asset-info.component.ts</context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="effectiveAgeGuide" datatype="html">
+        <source>Effective Age Guide</source>
+        <target>Effective Age Guide - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/common/effective-age.modal.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="comment" datatype="html">
+        <source>Comment</source>
+        <target>Comment - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/common/effective-age.modal.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/other-improvement-input.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="province" datatype="html">
+        <source>Province</source>
+        <target>Province - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="none" datatype="html">
+        <source>None</source>
+        <target>None - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="alberta" datatype="html">
+        <source>Alberta</source>
+        <target>Alberta - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="britishColumbia" datatype="html">
+        <source>British Columbia</source>
+        <target>British Columbia - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="manitoba" datatype="html">
+        <source>Manitoba</source>
+        <target>Manitoba - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="newBrunswick" datatype="html">
+        <source>New Brunswick</source>
+        <target>New Brunswick - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="newfoundlandLabrador" datatype="html">
+        <source>Newfoundland and Labrador</source>
+        <target>Newfoundland and Labrador - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="novaScotia" datatype="html">
+        <source>Nova Scotia</source>
+        <target>Nova Scotia - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ontario" datatype="html">
+        <source>Ontario</source>
+        <target>Ontario - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="princeEdwardIsland" datatype="html">
+        <source>Prince Edward Island</source>
+        <target>Prince Edward Island - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="quebec" datatype="html">
+        <source>Quebec</source>
+        <target>Quebec - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="saskatchewan" datatype="html">
+        <source>Saskatchewan</source>
+        <target>Saskatchewan - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="findBy" datatype="html">
+        <source>Find By</source>
+        <target>Find By - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="address" datatype="html">
+        <source>Address</source>
+        <target>Address - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="PID" datatype="html">
+        <source>PID</source>
+        <target>PID - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="legalLandDescription" datatype="html">
+        <source>
+              Legal Land Description
+            </source>
+        <target>
+              Legal Land Description - FR
+            </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="townshipConcessionLot" datatype="html">
+        <source>
+              Township Concession Lot
+            </source>
+        <target>
+              Township Concession Lot - FR
+            </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="township" datatype="html">
+        <source>Township</source>
+        <target>Township - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="concession" datatype="html">
+        <source>Concession</source>
+        <target>Concession - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="lot" datatype="html">
+        <source>Lot</source>
+        <target>Lot - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="autoPin" datatype="html">
+        <source>Auto Pin</source>
+        <target>Auto Pin - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="searchResultsNotFound" datatype="html">
+        <source>Search results not found.</source>
+        <target>Search results not found. - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/pin-by-search.component.ts</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="valuationCompleted" datatype="html">
+        <source>Valuation Completed:</source>
+        <target>Valuation Completed: - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="user" datatype="html">
+        <source>User:</source>
+        <target>User: - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="lastValuation" datatype="html">
+        <source>Last Valuation:</source>
+        <target>Last Valuation: - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="newValue" datatype="html">
+        <source>New Value: </source>
+        <target>New Value:  - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="land" datatype="html">
+        <source>Land</source>
+        <target>Land - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="minimum" datatype="html">
+        <source>Minimum</source>
+        <target>Minimum - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="maximum" datatype="html">
+        <source>Maximum</source>
+        <target>Maximum - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="suggested" datatype="html">
+        <source>Suggested</source>
+        <target>Suggested - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="selected" datatype="html">
+        <source>Selected</source>
+        <target>Selected - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="landTotal" datatype="html">
+        <source>Land Total</source>
+        <target>Land Total - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="comparableSales" datatype="html">
+        <source>Comparable Sales</source>
+        <target>Comparable Sales - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="improvements" datatype="html">
+        <source>Improvements</source>
+        <target>Improvements - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="improvementTotal" datatype="html">
+        <source>Improvement Total</source>
+        <target>Improvement Total - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="total" datatype="html">
+        <source>TOTAL</source>
+        <target>TOTAL - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-valuation.component.ts</context>
+          <context context-type="linenumber">92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="optional" datatype="html">
+        <source>Optional</source>
+        <target>Optional - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/optional-wrapper.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="hide" datatype="html">
+        <source>Hide</source>
+        <target>Hide - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/optional-wrapper.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="size" datatype="html">
+        <source>Size</source>
+        <target>Size - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/build-site-input.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/gravel-sand-pit-input.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/pasture-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/leases-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/sugar-bush-input.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/wooded-input.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/waste-input.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/other-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sizeUnit" datatype="html">
+        <source>Size Unit</source>
+        <target>Size Unit - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/build-site-input.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/gravel-sand-pit-input.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/pasture-input.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/leases-input.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/sugar-bush-input.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/wooded-input.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/waste-input.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/other-input.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="soilTexture" datatype="html">
+        <source>Soil Texture</source>
+        <target>Soil Texture - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="selectAnOption" datatype="html">
+        <source>--Select--</source>
+        <target>--Select-- - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">92</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/leases-input.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/leases-input.component.ts</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/wooded-input.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/beef-input.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/beef-input.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/dairy-cow-input.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/dairy-cow-input.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/dairy-cow-input.component.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/fruit-input.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/fruit-input.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/fruit-input.component.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/grain-input.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/grain-input.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/goat-sheep-input.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/goat-sheep-input.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/hog-input.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/hog-input.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/hog-input.component.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/greenhouse-input.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/greenhouse-input.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-on-farm-input.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-on-farm-input.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-on-farm-input.component.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-on-farm-input.component.ts</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/horse-input.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/horse-input.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-rural-input.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-rural-input.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-rural-input.component.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-rural-input.component.ts</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/leases-input.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/leases-input.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/leases-input.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/irrigation-input.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/irrigation-input.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/other-livestock-input.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/other-livestock-input.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/maple-syrup-input.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/maple-syrup-input.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/potato-input.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/potato-input.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/potato-input.component.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/poultry-input.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/poultry-input.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/poultry-input.component.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/tobacco-input.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/tobacco-input.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/veal-input.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/veal-input.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/veal-input.component.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/vegetable-input.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/vegetable-input.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/vegetable-input.component.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/element-use.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/element-type.component.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="tileDrainage" datatype="html">
+        <source>Tile Drainage</source>
+        <target>Tile Drainage - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="irrigated" datatype="html">
+        <source>Irrigated</source>
+        <target>Irrigated - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="legalIrrigationSystem" datatype="html">
+        <source>Legal Irrigation System</source>
+        <target>Legal Irrigation System - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cliClass" datatype="html">
+        <source>CLI Class</source>
+        <target>CLI Class - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cliSubclass" datatype="html">
+        <source>CLI Subclass</source>
+        <target>CLI Subclass - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="association" datatype="html">
+        <source>Association</source>
+        <target>Association - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="insuranceRating" datatype="html">
+        <source>Insurance Rating</source>
+        <target>Insurance Rating - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="finalRating" datatype="html">
+        <source>Final Rating (0-100)</source>
+        <target>Final Rating (0-100) - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/cultivated-land-input.component.ts</context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="density" datatype="html">
+        <source>Density</source>
+        <target>Density - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/leases-input.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/wooded-input.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="valueOfCrop" datatype="html">
+        <source>Crop Value</source>
+        <target>Crop Value - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fruitType" datatype="html">
+        <source>Fruit Type</source>
+        <target>Fruit Type - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="grapeType" datatype="html">
+        <source>Grape Type</source>
+        <target>Grape Type - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="quality" datatype="html">
+        <source>Quality</source>
+        <target>Quality - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-on-farm-input.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-rural-input.component.ts</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="yield" datatype="html">
+        <source>Yield</source>
+        <target>Yield - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/leases-input.component.ts</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="market" datatype="html">
+        <source>Market</source>
+        <target>Market - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="plantingYear" datatype="html">
+        <source>Planting Year</source>
+        <target>Planting Year - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/leases-input.component.ts</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="frostProtection" datatype="html">
+        <source>Frost Protection</source>
+        <target>Frost Protection - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="attachedToWinery" datatype="html">
+        <source>Attached Winery</source>
+        <target>Attached Winery - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Organic" datatype="html">
+        <source>Organic</source>
+        <target>Organic - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/leases-input.component.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Mature" datatype="html">
+        <source>Mature</source>
+        <target>Mature - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/fruit-input.component.ts</context>
+          <context context-type="linenumber">125</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="associatedRangeLandOrCrownLease" datatype="html">
+        <source>Associated Range Land or Crown Lease</source>
+        <target>Associated Range Land or Crown Lease - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/pasture-input.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/wooded-input.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aum" datatype="html">
+        <source>AUM</source>
+        <target>AUM - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/leases-input.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="quotaLBS" datatype="html">
+        <source>Quota(LBS)</source>
+        <target>Quota(LBS) - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/leases-input.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/sugar-bush-input.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="numberOfTaps" datatype="html">
+        <source>Number of Taps</source>
+        <target>Number of Taps - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/leases-input.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/sugar-bush-input.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="mature" datatype="html">
+        <source>Mature</source>
+        <target>Mature - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/leases-input.component.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/asset-details/wooded-input.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="effectiveAge" datatype="html">
+        <source>Effective Age</source>
+        <target>Effective Age - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/beef-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/dairy-cow-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/fruit-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/grain-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/goat-sheep-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/hog-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/greenhouse-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-on-farm-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/horse-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-rural-input.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/leases-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/irrigation-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/other-livestock-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/maple-syrup-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/potato-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/poultry-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/tobacco-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/veal-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/vegetable-input.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="numberOfUnits" datatype="html">
+        <source>Number of Units</source>
+        <target>Number of Units - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/beef-input.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/dairy-cow-input.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/fruit-input.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/grain-input.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/goat-sheep-input.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/hog-input.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/greenhouse-input.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-on-farm-input.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/horse-input.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-rural-input.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/leases-input.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/irrigation-input.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/other-livestock-input.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/maple-syrup-input.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/potato-input.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/poultry-input.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/tobacco-input.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/veal-input.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/vegetable-input.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="unitType" datatype="html">
+        <source> Unit type</source>
+        <target> Unit type - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/beef-input.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/dairy-cow-input.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/fruit-input.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/grain-input.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/goat-sheep-input.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/hog-input.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/greenhouse-input.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-on-farm-input.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/horse-input.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-rural-input.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/leases-input.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/irrigation-input.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/other-livestock-input.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/maple-syrup-input.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/potato-input.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/poultry-input.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/tobacco-input.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/veal-input.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/vegetable-input.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="area" datatype="html">
+        <source>Area</source>
+        <target>Area - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/beef-input.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/dairy-cow-input.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/fruit-input.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/grain-input.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/goat-sheep-input.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/hog-input.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/greenhouse-input.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-on-farm-input.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/horse-input.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-rural-input.component.ts</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/other-livestock-input.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/potato-input.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/poultry-input.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/tobacco-input.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/veal-input.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/vegetable-input.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/other-improvement-input.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="areaUnit" datatype="html">
+        <source>Area Unit</source>
+        <target>Area Unit - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/beef-input.component.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/dairy-cow-input.component.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/fruit-input.component.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/grain-input.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/goat-sheep-input.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/hog-input.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/greenhouse-input.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-on-farm-input.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/horse-input.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-rural-input.component.ts</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/other-livestock-input.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/potato-input.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/poultry-input.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/tobacco-input.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/veal-input.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/vegetable-input.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/other-improvement-input.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fabricCover" datatype="html">
+        <source>Fabric Cover</source>
+        <target>Fabric Cover - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/beef-input.component.ts</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/dairy-cow-input.component.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/fruit-input.component.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/grain-input.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/goat-sheep-input.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/hog-input.component.ts</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/horse-input.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/other-livestock-input.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/potato-input.component.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/poultry-input.component.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/veal-input.component.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/vegetable-input.component.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feedMill" datatype="html">
+        <source>Feedmill</source>
+        <target>Feedmill - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/beef-input.component.ts</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="replacementHousing" datatype="html">
+        <source>Replacement Housing</source>
+        <target>Replacement Housing - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/dairy-cow-input.component.ts</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="quota" datatype="html">
+        <source>Quota</source>
+        <target>Quota - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/dairy-cow-input.component.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="kilograms" datatype="html">
+        <source>kg</source>
+        <target>kg - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/dairy-cow-input.component.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="beddedPackBarn" datatype="html">
+        <source>Bedded Pack Barn</source>
+        <target>Bedded Pack Barn - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/dairy-cow-input.component.ts</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/hog-input.component.ts</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="coolingArea" datatype="html">
+        <source>Cooling Area</source>
+        <target>Cooling Area - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/fruit-input.component.ts</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/potato-input.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/vegetable-input.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="concreteFloor" datatype="html">
+        <source>Concrete Floor</source>
+        <target>Concrete Floor - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/grain-input.component.ts</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="grainDryer" datatype="html">
+        <source>Grain Dryer</source>
+        <target>Grain Dryer - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/grain-input.component.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="balance" datatype="html">
+        <source>Balance</source>
+        <target>Balance - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/grain-input.component.ts</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="gestationHousingSystem" datatype="html">
+        <source>Gestation Housing System</source>
+        <target>Gestation Housing System - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/hog-input.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="feederCapacity" datatype="html">
+        <source>Feeder Capacity</source>
+        <target>Feeder Capacity - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/hog-input.component.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="gutterHeight" datatype="html">
+        <source>Gutter Height</source>
+        <target>Gutter Height - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/greenhouse-input.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="gutterHeightUnitType" datatype="html">
+        <source>Gutter Height Unit Type</source>
+        <target>Gutter Height Unit Type - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/greenhouse-input.component.ts</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="onSiteC02Production" datatype="html">
+        <source>On site C02 Production</source>
+        <target>On site C02 Production - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/greenhouse-input.component.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bunkhouseLabourHousing" datatype="html">
+        <source>Bunkhouse (labour housing)</source>
+        <target>Bunkhouse (labour housing) - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/greenhouse-input.component.ts</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="hotWaterFloorRails" datatype="html">
+        <source>Hot Water Floor Rails</source>
+        <target>Hot Water Floor Rails - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/greenhouse-input.component.ts</context>
+          <context context-type="linenumber">82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="hangingGrowTroughs" datatype="html">
+        <source>Hanging Grow Troughs</source>
+        <target>Hanging Grow Troughs - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/greenhouse-input.component.ts</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="curtains" datatype="html">
+        <source>Curtains</source>
+        <target>Curtains - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/greenhouse-input.component.ts</context>
+          <context context-type="linenumber">92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="overheadBasketLine" datatype="html">
+        <source>Overhead Basket Line</source>
+        <target>Overhead Basket Line - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/greenhouse-input.component.ts</context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="travellingIrrigationBooms" datatype="html">
+        <source>Travelling Irrigation Booms</source>
+        <target>Travelling Irrigation Booms - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/greenhouse-input.component.ts</context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="garage" datatype="html">
+        <source>Garage</source>
+        <target>Garage - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-on-farm-input.component.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/house-rural-input.component.ts</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="solarPanelType" datatype="html">
+        <source>Solar Panel Type</source>
+        <target>Solar Panel Type - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/leases-input.component.ts</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="numberOfKW" datatype="html">
+        <source>Number of kW</source>
+        <target>Number of kW - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/leases-input.component.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="unitRateDollarPerKW" datatype="html">
+        <source>Unit Rate $/kW</source>
+        <target>Unit Rate $/kW - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/leases-input.component.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cornerArm" datatype="html">
+        <source>Corner Arm</source>
+        <target>Corner Arm - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/irrigation-input.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="hydro" datatype="html">
+        <source>Hydro</source>
+        <target>Hydro - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/maple-syrup-input.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="premiumLivingQuarter" datatype="html">
+        <source>Premium Living Quarter</source>
+        <target>Premium Living Quarter - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/maple-syrup-input.component.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="humidityControlSystem" datatype="html">
+        <source>Humidity Control System</source>
+        <target>Humidity Control System - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/potato-input.component.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="typeOfCages" datatype="html">
+        <source>Type of Cages</source>
+        <target>Type of Cages - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/poultry-input.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="multiStorey" datatype="html">
+        <source>Multi Storey</source>
+        <target>Multi Storey - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/poultry-input.component.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="noQuotaAttached" datatype="html">
+        <source>No Quota Attached</source>
+        <target>No Quota Attached - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/poultry-input.component.ts</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="housingSystem" datatype="html">
+        <source>Housing System</source>
+        <target>Housing System - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/improvements/veal-input.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Use" datatype="html">
+        <source>Use</source>
+        <target>Use - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/element-use.component.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="totalSizeWarning" datatype="html">
+        <source> Total size converted due to having multiple unit types. Conversions may not be completely accurate.</source>
+        <target> Total size converted due to having multiple unit types. Conversions may not be completely accurate. - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/total-size.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sizeMismatchWarning" datatype="html">
+        <source> Total size does not match CMS size </source>
+        <target> Total size does not match CMS size  - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/total-size.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="hideAdditionalDetails" datatype="html">
+        <source> Hide Additional Details </source>
+        <target> Hide Additional Details  - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/additional-details.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="viewAdditionalDetails" datatype="html">
+        <source> View Additional Details </source>
+        <target> View Additional Details  - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/additional-details.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="addNewDetail" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/> Add New Asset Detail</source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/> Add New Asset Detail - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/element-group.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="addNewImprovement" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/> Add New Improvement</source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/> Add New Improvement - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/element-group.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="type" datatype="html">
+        <source>Type</source>
+        <target>Type - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valcro/edit-asset/attributes/asset-element/element-type.component.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="pricePer" datatype="html">
+        <source>Price per</source>
+        <target>Price per - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-detail-row.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="hectare" datatype="html">
+        <source>Hectare</source>
+        <target>Hectare - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-detail-row.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="squareFoot" datatype="html">
+        <source>Square Foot</source>
+        <target>Square Foot - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-detail-row.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="squareMetre" datatype="html">
+        <source>Square Metre</source>
+        <target>Square Metre - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-detail-row.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="acre" datatype="html">
+        <source>Acre</source>
+        <target>Acre - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-detail-row.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="reason" datatype="html">
+        <source>Reason</source>
+        <target>Reason - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-detail-row.component.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="otherdesription" datatype="html">
+        <source>Description </source>
+        <target>Description  - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/valuation-results/asset-detail-row.component.ts</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="showDetails|FCC Base: error 500 show details button" datatype="html">
+        <source>show details</source>
+        <target>show details - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../../../node_modules/@fcc/angular/lib/lib/core/handlers/http-5xx.handler.d.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="yourLoginHasExpired" datatype="html">
+        <source>Your login has expired!</source>
+        <target>Your login has expired! - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../../../node_modules/@fcc/angular/lib/lib/core/handlers/http-401.handler.d.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description">FCC Base: expired Authentication</note>
+      </trans-unit>
+      <trans-unit id="switchTo" datatype="html">
+        <source>Switch to French</source>
+        <target>Switch to French - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../../../node_modules/@fcc/angular/lib/lib/template/header/user.header.component.d.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <note priority="1" from="description"> Switch to French when english. Switch to English when french</note>
+        <note priority="1" from="meaning">FCC Base: header bar </note>
+      </trans-unit>
+      <trans-unit id="logout" datatype="html">
+        <source>Logout</source>
+        <target>Logout - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../../../node_modules/@fcc/angular/lib/lib/template/header/user.header.component.d.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <note priority="1" from="description">FCC Base: header bar</note>
+      </trans-unit>
+      <trans-unit id="notAuthorized" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/>   You are not authorized to view this page</source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i"/>   You are not authorized to view this page - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../../../node_modules/@fcc/angular/lib/lib/authentication/auth-guard/not-authorized.component.d.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <note priority="1" from="description">FCC Base: auth guard</note>
+      </trans-unit>
+      <trans-unit id="errorDetails|FCC Base: Error 500 detail title" datatype="html">
+        <source>Error Details</source>
+        <target>Error Details - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../../../node_modules/@fcc/angular/lib/lib/core/handlers/http-5xx-modal.component.d.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="requestId|FCC Base: Error 500 request id label" datatype="html">
+        <source>Request Id:</source>
+        <target>Request Id: - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../../../node_modules/@fcc/angular/lib/lib/core/handlers/http-5xx-modal.component.d.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="timestamp|FCC Base: Error 500 timestamp label" datatype="html">
+        <source>Timestamp:</source>
+        <target>Timestamp: - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../../../node_modules/@fcc/angular/lib/lib/core/handlers/http-5xx-modal.component.d.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="stackTrace|FCC Base: Error 500 Stack trace label" datatype="html">
+        <source>Stack trace:</source>
+        <target>Stack trace: - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../../../node_modules/@fcc/angular/lib/lib/core/handlers/http-5xx-modal.component.d.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="copyToClipboard|FCC Base: Error 500 copy button" datatype="html">
+        <source>Copy to clipboard</source>
+        <target>Copy to clipboard - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../../../node_modules/@fcc/angular/lib/lib/core/handlers/http-5xx-modal.component.d.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="unableToCompleteInvitation" datatype="html">
+        <source>We're unable to complete your application at this time. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/> Please contact the Customer Service Centre at <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>1-888-522-2555<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>.</source>
+        <target>We're unable to complete your application at this time. <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/> Please contact the Customer Service Centre at <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>1-888-522-2555<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>. - FR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/invitation/invitation-exception/invitation-exception.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

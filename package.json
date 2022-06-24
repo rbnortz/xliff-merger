@@ -1,0 +1,15 @@
+{
+  "name": "xliff-merger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xliff-merger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rbnortz",
+  "license": "ISC",
+  "dependencies": {
+    "xslt-processor": "^0.11.5",
+    "xslt4node": "^0.3.2"
+  }
+}
